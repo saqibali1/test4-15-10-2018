@@ -1,0 +1,72 @@
+.div1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 3em;
+    font-size: 15px;
+
+}
+.btn-primary{
+    color:black;
+    width: 140px;
+    text-align: left;
+    font-size: 15px;
+
+}
+
+.btn-primary:hover{
+    color: black;
+    outline: none;
+
+}
+
+
+
+
+.div2, .div3, .div4, .div4, .div5, .div6, .div7{
+    padding: 0.5em;
+    width:150px;
+}
+.blue1, .blue3, .blue4, .blue5, .blue6{
+    background-color: #ffffff !important;
+    border-color: gray !important;
+}
+
+.blue2{
+    background-color: #fef8f2;
+    border-color:#f0ab7e !important;
+    font-weight: bold;
+
+}
+
+.blue2:hover{
+    background-color:#fef8f2;
+}
+.spec{
+    color: #be4634;
+    font-weight: bold;
+
+}
+
+.cost{
+    color:gray;
+    font-weight: bold;
+}
+
+.red{
+    color: #be4634;
+    font-weight: bold;
+}
+
+.gray{
+    color:gray !important;
+}
+
+.blue{
+    color:#0668ca ;
+    font-size: 14px;
+}
+
+.icon{
+    color:#f8ba69;
+}
