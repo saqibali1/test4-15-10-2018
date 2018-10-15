@@ -1,0 +1,41 @@
+.divfull{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+    padding:1em;
+    /* font-size: 20px; */
+
+}
+
+.line1, .line13{
+    background-color: black;
+    color:#ffffff;
+    height:70px;
+
+}
+
+.line7{
+    background-color: #53b050;
+    color:#ffffff;
+    height: 70px;
+}
+
+.line2, .line8, .line14, .last{
+    background-color: #eeeeee;
+}
+
+.line1, .line7, .line13{
+    font-size: 30px;
+
+}
+
+.line2, .line8, .line14{
+    color:black;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.green{
+    border-radius: none;
+}
